@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋, I'm Priyanshu Mojidra
 
-<!--
-**priyanshumojidra0508/priyanshumojidra0508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Flutter Developer at AimInfologics
 
-Here are some ideas to get you started:
+I am a passionate Flutter Developer focused on building high-quality Android and iOS applications with clean architecture and responsive UI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+* 💼 Flutter Developer at **AimInfologics**
+* 🌱 Currently improving Flutter architecture and performance
+* 🔥 Building production-ready Flutter applications
+* 📍 Gujarat, India
+
+---
+
+## 🛠 Tech Stack
+
+* Flutter
+* Dart
+* Firebase
+* REST APIs
+* Git & GitHub
+* Android Studio
+* VS Code
+
+---
+
+## 📱 Featured Projects
+
+* 💊 Medicine Identifier App
+* 📍 GPS Map Camera
+* 🎮 Balloon Game
+* 📚 GTU Diploma Papers
+* 🎓 Education Platform
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/priyanshu-mojidra
+* Email: [priyanshuparjapati@gmail.com](mailto:priyanshuparjapati@gmail.com)
+
+---
+
+⭐ Thanks for visiting my profile!
